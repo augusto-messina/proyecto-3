@@ -1,208 +1,240 @@
 [
   {
   "id": 1,
-  "category": "starwars",
+  "category": "Puma",
   "licence": "Star Wars",
-  "name": "Baby Yoda Blueball",
-  "description": "Figura coleccionable de Baby Yoda (Grogu) - The Mandalorian Saga, edición limitada.",
+  "name": "Zapatillas Puma Palermo Vintage",
+  "description": "Las Zapatillas Puma Palermo Vintage no te pueden faltar en tus salidas si lo que buscás es el máximo estilo.",
   "img": {
-  "front": "/star-wars/baby-yoda-1.webp",
-  "back": "/star-wars/baby-yoda-box.webp"
+  "front": "src/assets/zapatillas/puma-zapatilla-2.jpeg",
+  "back": "src/assets/zapatillas/puma-zapatilla-1.jpeg"
   },
   "sku": "STW001001",
-  "price": 1799.99,
+  "price": 169.999,
   "dues": 3,
   "stock": 8,
   "sells": 11
 },
 {
   "id": 2,
-  "category": "starwars",
+  "category": "Nike",
   "licence": "Star Wars",
-  "name": "Boba Fett Fighter",
-  "description": "Figura coleccionable de Boba Fett Fighter - The Mandalorian Saga.",
+  "name": "Zapatillas Jordan Air 1 Mid Se Craft Hombre",
+  "description": "Las Zapatillas Jordan Air 1 Mid Se Craft Hombre es la definición de elegancia en un diseño clásico.",
   "img": {
-  "front": "/star-wars/bobbafeth-1.webp",
-  "back": "/star-wars/bobbafeth-box.webp"
+  "front": "src/assets/zapatillas/zapatillas-jordan.jpeg",
+  "back": "src/assets/zapatillas/zapatillas-jordan-2.jpeg"
   },
   "sku": "STW001002",
-  "price": 1799.99,
+  "price": 259.999,
   "dues": 6,
   "stock": 8,
   "sells": 5
 },
 {
   "id": 3,
-  "category": "starwars",
+  "category": "Vans",
   "licence": "Star Wars",
-  "name": "Luke Skylwalker & Grogu",
-  "description": "Figura coleccionable de Luke Skylwalker & Grogu - The Mandalorian Saga.",
+  "name": "Zapatillas Vans Knu Skool",
+  "description": "Las Zapatillas Vans Knu Skool son una combinación de funcionalidad y estilo.",
   "img": {
-  "front": "/star-wars/luke-1.webp",
-  "back": "/star-wars/luke-box.webp"
+  "front": "src/assets/zapatillas/vans-knu-1.jpeg",
+  "back": "src/assets/zapatillas/vans-knu-2.jpeg"
   },
   "sku": "STW001003",
-  "price": 1799.99,
+  "price": 199.199,
   "dues": 6,
   "stock": 8,
   "sells": 5
 },
 {
   "id": 4,
-  "category": "starwars",
+  "category": "Nike",
   "licence": "Star Wars",
-  "name": "Stormtrooper Lightsaber",
-  "description": "Figura coleccionable de Stormtrooper Lightsaber - Star Wars Saga.",
+  "name": "Remera Urbana Nike Club Essentials Mujer",
+  "description": "Sentite cómoda y fresca las 24 horas del día con la Remera Urbana Nike Club Essentials Mujer.",
   "img": {
-  "front": "/star-wars/trooper-1.webp",
-  "back": "/star-wars/trooper-box.webp"
+  "front": "src/assets/ropa/remera-nike-1.jpeg",
+  "back": "src/assets/ropa/remera-nike-2.jpeg"
   },
   "sku": "STW001004",
-  "price": 1799.99,
+  "price": 39.999,
   "dues": 6,
   "stock": 8,
   "sells": 17
 },
 {
   "id": 5,
-  "category": "pokemon",
+  "category": "The North Face",
   "licence": "Pokemon",
-  "name": "Charmander Smiley",
-  "description": "Figura coleccionable de Charmander - Pokemon Saga.",
+  "name": "The North Face Campera W NUPTSE SHORT JACKET",
+  "description": "La Nuptse ha estado brindando una calidez que cambia el juego desde 1992.",
   "img": {
-  "front": "/pokemon/charmander-1.webp",
-  "back": "/pokemon/charmander-box.webp"
+  "front": "src/assets/ropa/campera-the-1.jpg",
+  "back": "src/assets/ropa/campera-the-2.jpg"
   },
   "sku": "PKM001001",
-  "price": 1799.99,
+  "price": 600.999,
   "dues": 6,
   "stock": 8,
   "sells": 5
 },
 {
   "id": 6,
-  "category": "pokemon",
+  "category": "Puma",
   "licence": "Pokemon",
-  "name": "Dragonite Hi!",
-  "description": "Figura coleccionable de Dragonite - Pokemon Saga.",
+  "name": "Buzo Puma Downtown Graphic Mujer",
+  "description": "El Buzo Puma Downtown Graphic Mujer se adapta a tu vida activa y al movimiento de la ciudad.",
   "img": {
-  "front": "/pokemon/dragonite-1.webp",
-  "back": "/pokemon/dragonite-box.webp"
+  "front":"src/assets/ropa/buzo-puma-1.jpeg",
+  "back": "src/assets/ropa/buzo-puma-2.jpeg"
   },
   "sku": "PKM001002",
-  "price": 1799.99,
+  "price": 89.999,
   "dues": 3,
   "stock": 8,
   "sells": 13
 },
 {
   "id": 7,
-  "category": "pokemon",
+  "category": "Nike",
   "licence": "Pokemon",
-  "name": "Pidgeotto Flying",
-  "description": "Figura coleccionable de Pidgeotto - Pokemon Saga.",
+  "name": "Zapatillas Nike Air More Uptempo '96",
+  "description": "La clave está en el A-I-R. Las Zapatillas Nike Air More Uptempo '96 Hombre renuevan un original que ha reinado por más de 20 años.",
   "img": {
-  "front": "/pokemon/pidgeotto-1.webp",
-  "back": "/pokemon/pidgeotto-box.webp"
+  "front": "src/assets/zapatillas/zapatillas-nike-1.jpeg",
+  "back": "src/assets/zapatillas/zapatillas-nike-2.jpeg"
   },
   "sku": "PKM00103",
-  "price": 1799.99,
+  "price": 329.999,
   "dues": 9,
   "stock": 8,
   "sells": 17
 },
 {
   "id": 8,
-  "category": "pokemon",
+  "category": "Nike",
   "licence": "Pokemon",
-  "name": "Pikachu Smiley",
-  "description": "Figura coleccionable de Pikachu - Pokemon Saga.",
+  "name": "Zapatillas Nike Dunk Low Retro Bttys Hombre",
+  "description": "El Nike Dunk Low Retro, creado para la cancha pero que luego dominó las calles, regresa con las Zapatillas Nike Dunk Low Retro Bttys.",
   "img": {
-  "front": "/pokemon/pikachu-2.webp",
-  "back": "/pokemon/pikachu-box.webp"
+  "front": "src/assets/zapatillas/zapatillas-nike-5.jpeg",
+  "back": "src/assets/zapatillas/zapatillas-nike-6.jpeg"
   },
   "sku": "PKM001004",
-  "price": 1799.99,
+  "price": 171.999,
   "dues": 3,
   "stock": 8,
   "sells": 5
 },
 {
   "id": 9,
-  "category": "pokemon",
+  "category": "Nike",
   "licence": "Pokemon",
-  "name": "Vulpix Fancy",
-  "description": "Figura coleccionable de Vulpix - Pokemon Saga.",
+  "name": "Zapatillas Nike Court Vision De Mujer",
+  "description": "Las zapatillas Nike Court Vision Low para mujeres combinan el estilo Fastbreak del baloncesto de los 80 y muestran su lado casual.",
   "img": {
-  "front": "/pokemon/vulpix-1.webp",
-  "back": "/pokemon/vulpix-box.webp"
+  "front": "src/assets/zapatillas/zapatillas-nike-3.webp",
+  "back": "src/assets/zapatillas/zapatillas-nike-4.webp"
   },
   "sku": "PKM001005",
-  "price": 1799.99,
+  "price": 134.999,
   "dues": 3,
   "stock": 8,
   "sells": 5
 },
 {
   "id": 10,
-  "category": "harrypotter",
+  "category": "Nike",
   "licence": "Harry Potter",
-  "name": "Harry Potter & Hegwid",
-  "description": "Figura coleccionable de Harry Potter & Hegwid - Harry Potter Saga.",
+  "name": "Buzo Nike Sportswear Hombre",
+  "description": "Complementá tus looks con el Buzo Nike Sportswear Hombre. Para entrenar o vestir cómodo durante tus actividades diarias.",
   "img": {
-  "front": "/harry-potter/harry-1.webp",
-  "back": "/harry-potter/harry-box.webp"
+  "front": "src/assets/ropa/buzo-nike-1.jpeg",
+  "back": "src/assets/ropa/buzo-nike-2.jpeg"
   },
   "sku": "HPT001001",
-  "price": 1799.99,
+  "price": 99.359,
   "dues": 3,
   "stock": 8,
   "sells": 5
 },
 {
   "id": 11,
-  "category": "harrypotter",
+  "category": "Puma",
   "licence": "Harry Potter",
-  "name": "Herminione Ball Dress",
-  "description": "Figura coleccionable de Herminione - Harry Potter Saga.",
+  "name": "Short Puma Team 8 Wv Hombre",
+  "description": "El Short Puma Team 8 Wv Hombre es todo lo que necesitás para estar en lo más alto de la moda. ",
   "img": {
-  "front": "/harry-potter/hermione-1.webp",
-  "back": "/harry-potter/hermione-box.webp"
+  "front": "src/assets/ropa/pantalon-puma-1.jpeg",
+  "back": "src/assets/ropa/pantalon-puma-2.jpeg"
   },
   "sku": "HPT001002",
-  "price": 1799.99,
+  "price": 79.999,
   "dues": 3,
   "stock": 8,
   "sells": 5
 },
 {
   "id": 12,
-  "category": "harrypotter",
+  "category": "Adidas",
   "licence": "Harry Potter",
-  "name": "Luna Lovegood Lion Mask",
-  "description": "Figura coleccionable de Luna Lovegood - Harry Potter Saga.",
+  "name": "Pantalón adidas Flames Hombre",
+  "description": "Cuando tu estilo se trata de hacer una declaración, busca este Pantalón adidas Flames Hombre.",
   "img": {
-  "front": "/harry-potter/luna-1.webp",
-  "back": "/harry-potter/luna-box.webp"
+  "front": "src/assets/ropa/pantalon-adidas-1.jpeg",
+  "back": "src/assets/ropa/pantalon-adidas-2.jpeg"
   },
   "sku": "HPT001003",
-  "price": 1799.99,
+  "price": 139.999,
   "dues": 3,
   "stock": 8,
   "sells": 17
 },
 {
   "id": 13,
-  "category": "harrypotter",
+  "category": "nike",
   "licence": "Harry Potter",
-  "name": "Snape Patronus",
-  "description": "Figura coleccionable de Snape Patronus - Harry Potter Saga.",
+  "name": "Nike Academy Team",
+  "description": "El bolso de entrenamiento Nike Academy Team ofrece un diseño duradero para organizar tus cosas.",
   "img": {
-  "front": "/harry-potter/snape-patronus-1.webp",
-  "back": "/harry-potter/snape-patronus-box.webp"
+  "front": "src/assets/accesorios/bolso-nike-1.webp",
+  "back": "src/assets/accesorios/bolso-nike-2.webp"
   },
   "sku": "HPT001004",
-  "price": 1799.99,
+  "price": 83.999,
+  "dues": 3,
+  "stock": 13,
+  "sells": 5
+},
+{
+  "id": 14,
+  "category": "Nike",
+  "licence": "Harry Potter",
+  "name": "Gorra Jordan Club",
+  "description": "La Gorra Jordan Club combina estilo y funcionalidad en un diseño clásico.",
+  "img": {
+  "front": "src/assets/accesorios/gorra-nike-1.jpeg",
+  "back": "src/assets/accesorios/gorra-nike-2.jpeg"
+  },
+  "sku": "HPT001004",
+  "price": 37.499,
+  "dues": 3,
+  "stock": 13,
+  "sells": 5
+},
+{
+  "id": 15,
+  "category": "nike",
+  "licence": "Harry Potter",
+  "name": "Nike Everyday Lightweight",
+  "description": "Dalo todo en los entrenamientos con las medias Nike Everyday, ayudan a mantener los pies cómodos y secos.",
+  "img": {
+  "front": "src/assets/accesorios/medias-nike-1.webp",
+  "back": "src/assets/accesorios/medias-nike-2.webp"
+  },
+  "sku": "HPT001004",
+  "price": 12.999,
   "dues": 3,
   "stock": 13,
   "sells": 5
